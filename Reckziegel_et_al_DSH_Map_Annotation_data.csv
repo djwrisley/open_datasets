@@ -23,7 +23,7 @@ point,x,y,lon,lat,original_lang_toponym,English_name_of_place,map,MapWarper_link
 22,742.288125,789.4565961,57.08755694,30.29063982,كرمان,"Kurman, Iran",Al-Idrisi,https://mapwarper.net/maps/41888,"https://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+0,t+,rsrs+0,rsps+10,fa+,so+ox%3Asort%5Easc,scids+,pid+ced0d8bd-1019-4af2-9086-e411115f1507,vi+cc2debab-70f5-4b82-9bab-7235fdb89e43"
 23,754.123125,930.1615961,49.26529131,40.4998296,أذبيجان,Azerbaijan,Al-Idrisi,https://mapwarper.net/maps/41888,"https://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+0,t+,rsrs+0,rsps+10,fa+,so+ox%3Asort%5Easc,scids+,pid+ced0d8bd-1019-4af2-9086-e411115f1507,vi+cc2debab-70f5-4b82-9bab-7235fdb89e43"
 24,1151.253125,1055.744096,16.59195147,39.2596201,قلورية,"Calabria, Italy",Al-Idrisi,https://mapwarper.net/maps/41888,"https://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+0,t+,rsrs+0,rsps+10,fa+,so+ox%3Asort%5Easc,scids+,pid+ced0d8bd-1019-4af2-9086-e411115f1507,vi+cc2debab-70f5-4b82-9bab-7235fdb89e43"
-***
+,,,,,
 1,608,1099.166667,35.22903442,31.77516948,Jerusalem,Jerusalem,Psalter World Map,https://mapwarper.net/maps/41847,https://www.bl.uk/collection-items/psalter-world-map
 2,536.3333333,1291.666667,12.50999451,41.83503729,Roma,"Rome, Italy",Psalter World Map,https://mapwarper.net/maps/41847,https://www.bl.uk/collection-items/psalter-world-map
 3,614.875,1254.583333,14.39148903,37.53382411,Sisilia,"Sicily, Italy",Psalter World Map,https://mapwarper.net/maps/41847,https://www.bl.uk/collection-items/psalter-world-map
@@ -49,7 +49,7 @@ point,x,y,lon,lat,original_lang_toponym,English_name_of_place,map,MapWarper_link
 23,963.8333333,1003.333333,33.7263751,16.93045877,Meroe,"Meroe, Sudan",Psalter World Map,https://mapwarper.net/maps/41847,https://www.bl.uk/collection-items/psalter-world-map
 24,599.25,1166.666667,34.90706205,32.5367558,Cesare a Palestine,"Caesarea Maritima, Israel",Psalter World Map,https://mapwarper.net/maps/41847,https://www.bl.uk/collection-items/psalter-world-map
 25,543.4166667,1156.25,35.07323027,32.88081255,Acaron,"Ashkelon, Israel",Psalter World Map,https://mapwarper.net/maps/41847,https://www.bl.uk/collection-items/psalter-world-map
-***
+,,,,,,,,
 1,1319.728125,1107.767188,35.23225307,31.77836171,Hierusalem,Jerusalem,Fra Mauro,https://mapwarper.net/maps/41846,"https://en.wikipedia.org/wiki/Fra_Mauro_map#/media/File:Fra_Mauro_World_Map,_c.1450.jpg"
 2,845.7057292,963.2453125,77.22955227,28.59874665,Deli,"New Delhi, India",Fra Mauro,https://mapwarper.net/maps/41846,"https://en.wikipedia.org/wiki/Fra_Mauro_map#/media/File:Fra_Mauro_World_Map,_c.1450.jpg"
 3,1115.807292,1723.739063,28.20306301,53.54340586,Rossia Biancha,Belarus,Fra Mauro,https://mapwarper.net/maps/41846,"https://en.wikipedia.org/wiki/Fra_Mauro_map#/media/File:Fra_Mauro_World_Map,_c.1450.jpg"
@@ -62,8 +62,8 @@ point,x,y,lon,lat,original_lang_toponym,English_name_of_place,map,MapWarper_link
 10,1793.984375,1738.705729,10.42169094,63.42827836,Islant,"Trondheim, Norway",Fra Mauro,https://mapwarper.net/maps/41846,"https://en.wikipedia.org/wiki/Fra_Mauro_map#/media/File:Fra_Mauro_World_Map,_c.1450.jpg"
 11,405.5921875,1197.099479,88.97393703,29.43457066,Asia Thebet,Tibet,Fra Mauro,https://mapwarper.net/maps/41846,"https://en.wikipedia.org/wiki/Fra_Mauro_map#/media/File:Fra_Mauro_World_Map,_c.1450.jpg"
 12,1264.538542,758.1552083,43.40264797,12.61326455,Aden,"Aden, Yemen",Fra Mauro,https://mapwarper.net/maps/41846,"https://en.wikipedia.org/wiki/Fra_Mauro_map#/media/File:Fra_Mauro_World_Map,_c.1450.jpg"
-***
-1,172.0083333,286.1333333,28.96820068,41.00684811,Constantinoplis,"Istanbul, Turkey ",Isidore map,https://mapwarper.net/maps/42160,
+,,,,,,,,,
+1,172.0083333,286.1333333,28.96820068,41.00684811,Constantinoplis,"Istanbul, Turkey ",Isidore map,https://mapwarper.net/maps/42160
 2,245.0833333,404.8416667,12.54981995,41.87365127,Roma,"Rome, Italy",Isidore map,https://mapwarper.net/maps/42160,https://daten.digitale-sammlungen.de/0011/bsb00112097/images/index.html?id=00112097&groesser=&fip=yztseayaxdsydewqensdaseayaxdsydensdas&no=21&seite=312
 3,203.7666667,398.3666667,12.3740387,45.43315364,Venezia,"Venice, Italy",Isidore map,https://mapwarper.net/maps/42160,https://daten.digitale-sammlungen.de/0011/bsb00112097/images/index.html?id=00112097&groesser=&fip=yztseayaxdsydewqensdaseayaxdsydensdas&no=21&seite=312
 4,292.1427083,388.2494792,10.20629883,36.77409249,Carthago,"Carthage, Tunisia",Isidore map,https://mapwarper.net/maps/42160,https://daten.digitale-sammlungen.de/0011/bsb00112097/images/index.html?id=00112097&groesser=&fip=yztseayaxdsydewqensdaseayaxdsydensdas&no=21&seite=312
@@ -87,7 +87,7 @@ point,x,y,lon,lat,original_lang_toponym,English_name_of_place,map,MapWarper_link
 22,134.0833333,406.5888905,8.278348446,50.01029424,Magontia,"Mainz, Germany",Isidore map,https://mapwarper.net/maps/42160,https://daten.digitale-sammlungen.de/0011/bsb00112097/images/index.html?id=00112097&groesser=&fip=yztseayaxdsydewqensdaseayaxdsydensdas&no=21&seite=312
 23,102.0166667,291.0666667,35.38642645,45.03380407,Theodosia,"Feodosia, Russia",Isidore map,https://mapwarper.net/maps/42160,https://daten.digitale-sammlungen.de/0011/bsb00112097/images/index.html?id=00112097&groesser=&fip=yztseayaxdsydewqensdaseayaxdsydensdas&no=21&seite=312
 24,311.6833333,94.96666667,85.12256384,25.59083189,India,India,Isidore map,https://mapwarper.net/maps/42160,https://daten.digitale-sammlungen.de/0011/bsb00112097/images/index.html?id=00112097&groesser=&fip=yztseayaxdsydewqensdaseayaxdsydensdas&no=21&seite=312
-***
+,,,,,,,,,
 1,2168.635332,1816.721232,35.52635193,32.78438821,Galilee,"Tiberias, Israel",Mer des hystoires,https://mapwarper.net/maps/41883,https://digital.library.cornell.edu/catalog/ss:3293712
 2,2417.589404,2301.264901,36.40262961,33.49827735,Syrie,Syria,Mer des hystoires,https://mapwarper.net/maps/41883,https://digital.library.cornell.edu/catalog/ss:3293712
 3,2102.431118,2538.406807,28.18611145,36.33670007,Rhodes,"Rhodes, Greece",Mer des hystoires,https://mapwarper.net/maps/41883,https://digital.library.cornell.edu/catalog/ss:3293712
@@ -109,7 +109,7 @@ point,x,y,lon,lat,original_lang_toponym,English_name_of_place,map,MapWarper_link
 19,4603.821958,2642.341246,30.77869594,27.62083926,Egypte,"Cairo, Egypt",Mer des hystoires,https://mapwarper.net/maps/41883,https://digital.library.cornell.edu/catalog/ss:3293712
 20,3171.133531,3978.934718,-0.5543118739,35.68905202,Mauritania,"Mauretania Caesariensis, Western Algeria",Mer des hystoires,https://mapwarper.net/maps/41883,https://digital.library.cornell.edu/catalog/ss:3293712
 21,3156.330632,2317.427877,35.03040492,31.27440194,Palestina,Palestine,Mer des hystoires,https://mapwarper.net/maps/41883,https://digital.library.cornell.edu/catalog/ss:3293712
-***
+,,,,,,,,,
 1,1076.75,1302.08334,35.23118019,31.77796041,Jerusalem,Jerusalem,Hanns Rüst,https://mapwarper.net/maps/35506,https://www.themorgan.org/incunables/145336
 2,951.75,1250.694466,35.30962944,32.70132846,Nazeret,Nazareth,Hanns Rüst,https://mapwarper.net/maps/35506,https://www.themorgan.org/incunables/145336
 3,877.6875,1116.944475,35.20543098,31.70370367,Betlahem,Bethlehem,Hanns Rüst,https://mapwarper.net/maps/35506,https://www.themorgan.org/incunables/145336
@@ -136,7 +136,7 @@ point,x,y,lon,lat,original_lang_toponym,English_name_of_place,map,MapWarper_link
 24,1565.5,1939.722214,0.3076171875,35.75443922,Maritania,"Mauretania Caesariensis, Western Algeria",Hanns Rüst,https://mapwarper.net/maps/35506,https://www.themorgan.org/incunables/145336
 25,1703,1829.722214,14.765625,32.55504629,Libia,Lybia,Hanns Rüst,https://mapwarper.net/maps/35506,https://www.themorgan.org/incunables/145336
 26,1248,1604.722214,22.45605469,40.7213589,Macedomia,"Macedonia, Greece",Hanns Rüst,https://mapwarper.net/maps/35506,https://www.themorgan.org/incunables/145336
-***
+,,,,,,,,,
 1,354.6442773,2187.451669,-7.734375,53.37167684,Hibernia,Ireland,Cotton Anglo Saxon,https://mapwarper.net/maps/35510,https://www.bl.uk/collection-items/anglo-saxon-world-map
 2,431.3092773,2086.744784,-4.460449219,54.2038664,[unlabelled],"Isle of Man, UK",Cotton Anglo Saxon,https://mapwarper.net/maps/35510,https://www.bl.uk/collection-items/anglo-saxon-world-map
 3,1000.244277,1876.196266,12.52441406,41.87501436,Roma,"Rome, Italy",Cotton Anglo Saxon,https://mapwarper.net/maps/35510,https://www.bl.uk/collection-items/anglo-saxon-world-map
@@ -156,7 +156,7 @@ point,x,y,lon,lat,original_lang_toponym,English_name_of_place,map,MapWarper_link
 17,1438.467344,1036.154392,35.09420916,31.52695771,Ebron,Hebron,Cotton Anglo Saxon,https://mapwarper.net/maps/35510,https://www.bl.uk/collection-items/anglo-saxon-world-map
 18,1399.126094,503.4223203,33.98321673,28.43606783,Mons Sina,"Mount Sinai, Egypt",Cotton Anglo Saxon,https://mapwarper.net/maps/35510,https://www.bl.uk/collection-items/anglo-saxon-world-map
 19,595.1523438,1567.429397,16.64679095,47.3227738,Pannonia,"Pannonia, Western Hungary",Cotton Anglo Saxon,https://mapwarper.net/maps/35510,https://www.bl.uk/collection-items/anglo-saxon-world-map
-,
+,,,,,,,,,
 1,1210.016113,1582.174316,35.83740234,39.10448881,Capadocia,"Cappadocia, Turkey",Ebstorf Map,https://mapwarper.net/maps/16339,https://commons.wikimedia.org/wiki/File:Ebstorfer_Weltkarte.jpg
 2,2045.236816,1969.484863,36.01318359,34.2799144,Iherusalem,Jerusalem,Ebstorf Map,https://mapwarper.net/maps/16339,http://www2.leuphana.de/ebskart/
 3,2637.729736,2576.468994,9.162597656,40.15368686,Sicilia,"Sicily, Italy",Ebstorf Map,https://mapwarper.net/maps/16339,http://www2.leuphana.de/ebskart/
